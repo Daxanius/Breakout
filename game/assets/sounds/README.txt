@@ -1,0 +1,1 @@
+BOTH the .wav AND mp3 files are required. Why? Detecting beats using aubio requires .wav files, however the engine lags whenever a .wav file is called to play.
