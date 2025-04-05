@@ -1,5 +1,5 @@
 # Breakout
-[![CMake on a single platform](https://github.com/Daxanius/Breakout/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/Daxanius/Breakout/actions/workflows/cmake-single-platform.yml)
+[![CMake Windows](https://github.com/Daxanius/Breakout/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/Daxanius/Breakout/actions/workflows/cmake-single-platform.yml)
 
 A rhythm based breakout game, where the colors 
 switch based on an automatically detected beat. 
